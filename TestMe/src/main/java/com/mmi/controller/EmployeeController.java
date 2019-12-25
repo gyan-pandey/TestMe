@@ -50,10 +50,6 @@ public class EmployeeController {
 		return mv;
 
 	}*/
-	
-	
-	
-	
 	//jquery and json code to receive form data
  	@ResponseBody
 	@RequestMapping (value = "save" , method = RequestMethod.POST )
